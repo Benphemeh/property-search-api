@@ -1,0 +1,15 @@
+# compiled output
+/dist
+/node_modules
+.env
+.env.example
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+node_modules
+.env
+dist
